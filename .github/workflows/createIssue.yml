@@ -1,6 +1,7 @@
 on:
   schedule:
-    - cron:  '40 8 * * *'  
+    # 16:00 UTC <==> 00:00(next day) GMT +08:00
+    - cron:  '30 * * * *'  
 
 jobs:
   create_leetcode_daily_practice_issue:
