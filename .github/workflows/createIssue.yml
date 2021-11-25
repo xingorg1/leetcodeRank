@@ -10,6 +10,6 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
       - name: create daily practice issue action step
-        uses: xingorg1/leetcode-daily-practice-action@1.0.0
+        uses: xingorg1/leetcode-daily-practice-action@1.1.0
         with:
           token: ${{secrets.TOKEN}}
