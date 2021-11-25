@@ -24,10 +24,9 @@
 
 ## ❤️ 如何打卡：
 
-我们打卡方式目前是在gitee仓库通过提交[issue](https://gitee.com/xingorg1/algorithmic-clock-out/issues)评论打卡。
+我们打卡方式目前是在`Github`仓库通过提交[issue](https://github.com/xingorg1/leetcodeRank/issues)评论打卡。
 
 ### 🌝 打卡规范
-1. 在issue里创建当天的一条issue，`title`格式如：“2021-11-11 第1天”（当天第一个打卡的队员创建，根据历史issue累加天数）
 1. 打卡队员在issue下边评论自己今天打卡的情况。评论格式如下：
 
 ```txt
@@ -45,11 +44,12 @@
 ## 🧜‍♀️ 新加入成员待做事项：
 1. 加入「算法小分队」微信群聊（加群请移步公众号【前端印记】回复关键字【算法】）
 1. 加群修改群昵称
-1. 需要创建一个gitee账号（[https://gitee.com/](https://gitee.com/)）
-1. 修改gitee账号个人信息（二选一，必填）：
+1. 需要创建一个`Github`账号（[https://github.com/](https://github.com/)）
+1. 修改`Github`账号个人信息（三选一，必填）：
     1. 账号昵称为微信群昵称
-    1. 账号头像为微信头像
-1. 加入当天需要打卡：[仓库地址及打卡说明](https://gitee.com/xingorg1/algorithmic-clock-out)
+    2. 微信群昵称改成账号昵称 【推荐】
+    3. 账号头像为微信头像
+1. 加入的当天就需要打卡：[仓库地址及打卡说明](https://github.com/xingorg1/leetcodeRank)
 
 
 ## 🎉 关于分享会
