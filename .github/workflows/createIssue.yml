@@ -1,0 +1,15 @@
+on:
+  schedule:
+    - cron:  '25,45 */1 * * *'  
+
+jobs:
+  create_leetcode_daily_practice_issue:
+    runs-on: ubuntu-latest
+    name: create daily practice issue
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: create daily practice issue action step
+        uses: xingorg1/leetcode-daily-practice-action@main
+        with:
+          token: ${{secrets.TOKEN}}
