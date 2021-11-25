@@ -1,6 +1,6 @@
 on:
   schedule:
-    - cron:  '25,45 */1 * * *'  
+    - cron:  '* * * * *'  
 
 jobs:
   create_leetcode_daily_practice_issue:
